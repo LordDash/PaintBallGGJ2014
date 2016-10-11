@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: c735f82cb195346ff98b7c43c06a2f29
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: B_Gun
+    100002: B_Gun_X
+    100004: B_Head
+    100006: B_Head_X
+    100008: B_LArm_X
+    100010: B_LFoot_01
+    100012: B_LFoot_02
+    100014: B_LFoot_X
+    100016: B_LHand_01
+    100018: B_LHand_02
+    100020: B_LHand_X
+    100022: B_LLeg_X
+    100024: B_LLowerArm
+    100026: B_LLowerLeg
+    100028: B_LShoulder
+    100030: B_LUpperArm
+    100032: B_LUpperLeg
+    100034: B_RArm_X
+    100036: B_Rear
+    100038: B_Rear_X
+    100040: B_RFoot_01
+    100042: B_RFoot_02
+    100044: B_RFoot_X
+    100046: B_RHand_01
+    100048: B_RHand_02
+    100050: B_RHand_X
+    100052: B_RLeg_X
+    100054: B_RLowerArm
+    100056: B_RShoulder
+    100058: B_RUpperArm
+    100060: B_RUpperLeg
+    100062: B_RUpperLeg 1
+    100064: B_Spine_01
+    100066: B_Spine_02
+    100068: B_Spine_03
+    100070: B_Spine_X
+    100072: Backpack
+    100074: Canister
+    100076: Chestpiece
+    100078: Ctrl_Head
+    100080: Ctrl_Hip
+    100082: Ctrl_LElbow
+    100084: Ctrl_LFoot
+    100086: Ctrl_LHand
+    100088: Ctrl_LKnee
+    100090: Ctrl_Rear
+    100092: Ctrl_RElbow
+    100094: Ctrl_RFoot
+    100096: Ctrl_RHand
+    100098: Ctrl_RKnee
+    100100: Ctrl_Root
+    100102: Ctrl_Spine_01
+    100104: Ctrl_Spine_02
+    100106: Ctrl_Spine_03
+    100108: Gun
+    100110: IK Chain001
+    100112: IK Chain002
+    100114: IK Chain003
+    100116: IK Chain004
+    100118: Pockets
+    100120: SpacePirate
+    100122: //RootNode
+    400000: B_Gun
+    400002: B_Gun_X
+    400004: B_Head
+    400006: B_Head_X
+    400008: B_LArm_X
+    400010: B_LFoot_01
+    400012: B_LFoot_02
+    400014: B_LFoot_X
+    400016: B_LHand_01
+    400018: B_LHand_02
+    400020: B_LHand_X
+    400022: B_LLeg_X
+    400024: B_LLowerArm
+    400026: B_LLowerLeg
+    400028: B_LShoulder
+    400030: B_LUpperArm
+    400032: B_LUpperLeg
+    400034: B_RArm_X
+    400036: B_Rear
+    400038: B_Rear_X
+    400040: B_RFoot_01
+    400042: B_RFoot_02
+    400044: B_RFoot_X
+    400046: B_RHand_01
+    400048: B_RHand_02
+    400050: B_RHand_X
+    400052: B_RLeg_X
+    400054: B_RLowerArm
+    400056: B_RShoulder
+    400058: B_RUpperArm
+    400060: B_RUpperLeg
+    400062: B_RUpperLeg 1
+    400064: B_Spine_01
+    400066: B_Spine_02
+    400068: B_Spine_03
+    400070: B_Spine_X
+    400072: Backpack
+    400074: Canister
+    400076: Chestpiece
+    400078: Ctrl_Head
+    400080: Ctrl_Hip
+    400082: Ctrl_LElbow
+    400084: Ctrl_LFoot
+    400086: Ctrl_LHand
+    400088: Ctrl_LKnee
+    400090: Ctrl_Rear
+    400092: Ctrl_RElbow
+    400094: Ctrl_RFoot
+    400096: Ctrl_RHand
+    400098: Ctrl_RKnee
+    400100: Ctrl_Root
+    400102: Ctrl_Spine_01
+    400104: Ctrl_Spine_02
+    400106: Ctrl_Spine_03
+    400108: Gun
+    400110: IK Chain001
+    400112: IK Chain002
+    400114: IK Chain003
+    400116: IK Chain004
+    400118: Pockets
+    400120: SpacePirate
+    400122: //RootNode
+    4300000: SpacePirate
+    4300002: Pockets
+    4300004: Canister
+    4300006: Backpack
+    4300008: Chestpiece
+    4300010: Gun
+    7400000: idle
+    9500000: //RootNode
+    13700000: Backpack
+    13700002: Canister
+    13700004: Chestpiece
+    13700006: Gun
+    13700008: Pockets
+    13700010: SpacePirate
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Backpack
+        weight: 1
+      - path: Canister
+        weight: 1
+      - path: Chestpiece
+        weight: 1
+      - path: Ctrl_Root
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Gun
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Gun/B_Gun_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_LUpperLeg
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_LUpperLeg/B_LLowerLeg
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_LUpperLeg/B_LLowerLeg/B_LLeg_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_Rear_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_RUpperLeg
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_RUpperLeg/B_RUpperLeg 1
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Rear/B_RUpperLeg/B_RUpperLeg 1/B_RLeg_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_Head
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_Head/B_Head_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_LShoulder
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_LShoulder/B_LUpperArm
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_LShoulder/B_LUpperArm/B_LLowerArm
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_LShoulder/B_LUpperArm/B_LLowerArm/B_LArm_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_RShoulder
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_RShoulder/B_RUpperArm
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_RShoulder/B_RUpperArm/B_RLowerArm
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_RShoulder/B_RUpperArm/B_RLowerArm/B_RArm_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/B_Spine_01/B_Spine_02/B_Spine_03/B_Spine_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_Head
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LElbow
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LHand
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LHand/B_LHand_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LHand/B_LHand_01/B_LHand_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LHand/B_LHand_01/B_LHand_02/B_LHand_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_LHand/IK Chain002
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_Rear
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RElbow
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RHand
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RHand/B_RHand_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RHand/B_RHand_01/B_RHand_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RHand/B_RHand_01/B_RHand_02/B_RHand_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_RHand/IK Chain001
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_Spine_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_Spine_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_Hip/Ctrl_Spine_03
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LFoot
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LFoot/B_LFoot_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LFoot/B_LFoot_01/B_LFoot_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LFoot/B_LFoot_01/B_LFoot_02/B_LFoot_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LFoot/IK Chain004
+        weight: 1
+      - path: Ctrl_Root/Ctrl_LKnee
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RFoot
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RFoot/B_RFoot_01
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RFoot/B_RFoot_01/B_RFoot_02
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RFoot/B_RFoot_01/B_RFoot_02/B_RFoot_X
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RFoot/IK Chain003
+        weight: 1
+      - path: Ctrl_Root/Ctrl_RKnee
+        weight: 1
+      - path: Gun
+        weight: 1
+      - path: Pockets
+        weight: 1
+      - path: SpacePirate
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Ctrl_Root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1fa922034865a4d66b0d37aba59fe5c6,
+    type: 3}
+  animationType: 2
+  userData: 
